@@ -1,0 +1,11 @@
+.Content{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 40px;
+}
+
+.container{
+    width: 200px;
+}
